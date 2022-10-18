@@ -22,7 +22,7 @@ struct BacgroundAndOverlayBootcamp: View {
                     .shadow(color: Color.purple.opacity(0.5),radius: 10, x: 0, y: 10)
                     .overlay(
                     Circle()
-                        .fill(Color.blue)
+                        .fill(LinearGradient(gradient: Gradient(colors: [Color.blue, Color.pink]), startPoint: .topTrailing, endPoint: .bottomLeading))
                         .frame(width: 35, height: 35)
                         .overlay(
                         Text("5")
