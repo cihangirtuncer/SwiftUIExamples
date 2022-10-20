@@ -12,7 +12,13 @@ struct GridBootcamp: View {
         GridItem(.adaptive(minimum: 100), spacing: 6, alignment: nil)
     ]
     var body: some View {
+        
         ScrollView{
+            Rectangle()
+                .fill(Color.teal)
+                .frame(width: 200, height: 200)
+                
+            
             Rectangle()
                 .fill(.orange)
                 .frame(height: 400)
