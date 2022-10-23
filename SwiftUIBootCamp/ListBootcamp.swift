@@ -8,6 +8,12 @@
 import SwiftUI
 
 struct ListBootcamp: View {
+    
+    enum funcEnum {
+    case fruit
+    case veggie
+    }
+    
     @State var fruits : [String] = [
     "apple", "peach" , "banana", "orange"]
     @State var veggies : [String] = [
@@ -102,7 +108,3 @@ struct ListBootcamp_Previews: PreviewProvider {
     }
 }
 
-enum funcEnum {
-case fruit
-case veggie
-}
