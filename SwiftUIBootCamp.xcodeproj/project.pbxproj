@@ -41,6 +41,7 @@
 		8FCD667D2904A71100E13E31 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD667C2904A71100E13E31 /* TransitionBootcamp.swift */; };
 		8FCD667F2904AAEE00E13E31 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD667E2904AAEE00E13E31 /* SheetsBootcamp.swift */; };
 		8FCD66812904B1B000E13E31 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD66802904B1B000E13E31 /* PopoverBootcamp.swift */; };
+		8FCD66832904C5C500E13E31 /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD66822904C5C500E13E31 /* NavigationViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -80,6 +81,7 @@
 		8FCD667C2904A71100E13E31 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 		8FCD667E2904AAEE00E13E31 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		8FCD66802904B1B000E13E31 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
+		8FCD66822904C5C500E13E31 /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,6 +149,7 @@
 				8F3F02B828FC37A900751EF8 /* Info.plist */,
 				8F3F02B528FC37A900751EF8 /* SwiftUIBootCamp.xcdatamodeld */,
 				8F3F02B028FC37A900751EF8 /* Preview Content */,
+				8FCD66822904C5C500E13E31 /* NavigationViewBootcamp.swift */,
 			);
 			path = SwiftUIBootCamp;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				8FCD667D2904A71100E13E31 /* TransitionBootcamp.swift in Sources */,
 				8F3F02BF28FC37DA00751EF8 /* TextBootcamp.swift in Sources */,
 				8F1F61B4290350F500AE31AB /* AnimationTimingBootcamp.swift in Sources */,
+				8FCD66832904C5C500E13E31 /* NavigationViewBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
