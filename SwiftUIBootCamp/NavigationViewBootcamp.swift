@@ -45,6 +45,8 @@ struct SecondScreenNavigation: View {
             }
             .navigationTitle("Second Navigation")
             
+            
+            
         }
     }
 }
