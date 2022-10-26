@@ -37,6 +37,7 @@
 		8F519E5328FDA175007F9CF2 /* GridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F519E5228FDA175007F9CF2 /* GridBootcamp.swift */; };
 		8F5BE3ED29056D73006065B8 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5BE3EC29056D73006065B8 /* ListBootcamp.swift */; };
 		8F5BE3EF2905862D006065B8 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F5BE3EE2905862D006065B8 /* AlertBootcamp.swift */; };
+		8F61FBA8290935D900F91F80 /* AppStorageBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F61FBA7290935D900F91F80 /* AppStorageBootcamp.swift */; };
 		8F6F1B452902A81F004D33A6 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6F1B442902A81F004D33A6 /* BindingBootcamp.swift */; };
 		8F6F1B472902B079004D33A6 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6F1B462902B079004D33A6 /* ConditionalBootcamp.swift */; };
 		8F6F1B49290342E6004D33A6 /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F6F1B48290342E6004D33A6 /* TernaryBootcamp.swift */; };
@@ -86,6 +87,7 @@
 		8F519E5228FDA175007F9CF2 /* GridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootcamp.swift; sourceTree = "<group>"; };
 		8F5BE3EC29056D73006065B8 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		8F5BE3EE2905862D006065B8 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
+		8F61FBA7290935D900F91F80 /* AppStorageBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppStorageBootcamp.swift; sourceTree = "<group>"; };
 		8F6F1B442902A81F004D33A6 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		8F6F1B462902B079004D33A6 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
 		8F6F1B48290342E6004D33A6 /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
@@ -171,6 +173,7 @@
 				8F3F2C3729065AE2006E802A /* ModelBootcamp.swift */,
 				8F9539202907EFA500EA8659 /* ViewModelBootcamp.swift */,
 				8F9539222908457600EA8659 /* EnvironmentObjectBootcamp.swift */,
+				8F61FBA7290935D900F91F80 /* AppStorageBootcamp.swift */,
 				8F3F02AC28FC37A900751EF8 /* ContentView.swift */,
 				8F3F02AE28FC37A900751EF8 /* Assets.xcassets */,
 				8F3F02B328FC37A900751EF8 /* Persistence.swift */,
@@ -271,6 +274,7 @@
 				8FA36B252900B9B0007EE314 /* ButtonsBootcamp.swift in Sources */,
 				8F3F02CD28FC9C6A00751EF8 /* BacgroundAndOverlayBootcamp.swift in Sources */,
 				8FA36B232900B2E0007EE314 /* SafeAreaBootcamp.swift in Sources */,
+				8F61FBA8290935D900F91F80 /* AppStorageBootcamp.swift in Sources */,
 				8F9539212907EFA500EA8659 /* ViewModelBootcamp.swift in Sources */,
 				8F7A0F3228FD1222003D76BE /* SpacerBootcamp.swift in Sources */,
 				8F1F61B2290348AB00AE31AB /* AnimationBootcamp.swift in Sources */,

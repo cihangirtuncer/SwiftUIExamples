@@ -45,7 +45,7 @@ struct DetailView : View {
     var body: some View{
         ZStack{
             Color.orange.edgesIgnoringSafeArea(.all)
-            NavigationLink(destination: FinalViews(), label: {
+            NavigationLink(destination: FinalScreen(), label: {
                 Text(itemName)
                     .font(.title)
                     .bold()
@@ -57,13 +57,13 @@ struct DetailView : View {
     }
 }
 
-struct FinalViews : View {
-    @EnvironmentObject var finalViewsViewModel : EnvironmentViewModel
+struct FinalScreen : View {
+    @EnvironmentObject var finalScreenViewModel : EnvironmentViewModel
     var body: some View{
         ZStack {
             LinearGradient(gradient: Gradient(colors: [Color.black,Color.blue]), startPoint: .leading, endPoint: .trailing).edgesIgnoringSafeArea(.all)
             VStack{
-                ForEach(finalViewsViewModel.dataArray, id: \.self){item in
+                ForEach(finalScreenViewModel.dataArray, id: \.self){item in
                     Text(item)
                         .font(.title)
                         .bold()
