@@ -8,9 +8,17 @@
 import SwiftUI
 
 struct introView: View {
+    @AppStorage("signed_in") var currentUserSignedIn = false
     var body: some View {
         ZStack {
-            RadialGradient(gradient: Gradient(colors: [Color.indigo.opacity(0.8), Color.blue]), center: .center, startRadius: 5, endRadius: 500)
+            RadialGradient(gradient: Gradient(colors: [Color.purple, Color.black]), center: .center, startRadius: 5, endRadius: UIScreen.main.bounds.height)
+                .edgesIgnoringSafeArea(.all
+                )
+            if (currentUserSignedIn == true){
+                Text("Profile")
+            }else{
+                OnboardingView()
+            }
         }
     }
 }
