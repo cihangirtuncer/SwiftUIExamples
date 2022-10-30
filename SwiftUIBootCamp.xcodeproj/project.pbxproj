@@ -15,6 +15,7 @@
 		8F1B74C7290D51D700CF454C /* backgroundMaterialsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1B74C6290D51D700CF454C /* backgroundMaterialsBootcamp.swift */; };
 		8F1F61B2290348AB00AE31AB /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1F61B1290348AB00AE31AB /* AnimationBootcamp.swift */; };
 		8F1F61B4290350F500AE31AB /* AnimationTimingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1F61B3290350F500AE31AB /* AnimationTimingBootcamp.swift */; };
+		8F385E7F290E0361006292A8 /* TextSelectionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F385E7E290E0361006292A8 /* TextSelectionBootcamp.swift */; };
 		8F3F02AB28FC37A900751EF8 /* SwiftUIBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3F02AA28FC37A900751EF8 /* SwiftUIBootCampApp.swift */; };
 		8F3F02AD28FC37A900751EF8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F3F02AC28FC37A900751EF8 /* ContentView.swift */; };
 		8F3F02AF28FC37A900751EF8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8F3F02AE28FC37A900751EF8 /* Assets.xcassets */; };
@@ -67,6 +68,7 @@
 		8F1B74C6290D51D700CF454C /* backgroundMaterialsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = backgroundMaterialsBootcamp.swift; sourceTree = "<group>"; };
 		8F1F61B1290348AB00AE31AB /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 		8F1F61B3290350F500AE31AB /* AnimationTimingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingBootcamp.swift; sourceTree = "<group>"; };
+		8F385E7E290E0361006292A8 /* TextSelectionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextSelectionBootcamp.swift; sourceTree = "<group>"; };
 		8F3F02A728FC37A900751EF8 /* SwiftUIBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F3F02AA28FC37A900751EF8 /* SwiftUIBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIBootCampApp.swift; sourceTree = "<group>"; };
 		8F3F02AC28FC37A900751EF8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -185,6 +187,7 @@
 				8FFBB904290AFD5F008EF69D /* OnboardingViews */,
 				8F1B74C4290D3E4600CF454C /* AsyncImageBootcamp.swift */,
 				8F1B74C6290D51D700CF454C /* backgroundMaterialsBootcamp.swift */,
+				8F385E7E290E0361006292A8 /* TextSelectionBootcamp.swift */,
 				8F3F02AC28FC37A900751EF8 /* ContentView.swift */,
 				8F3F02AE28FC37A900751EF8 /* Assets.xcassets */,
 				8F3F02B328FC37A900751EF8 /* Persistence.swift */,
@@ -320,6 +323,7 @@
 				8F3F02C128FC3A5800751EF8 /* ShapesBootcamp.swift in Sources */,
 				8F3F2C3629065916006E802A /* ToggleBootcamp.swift in Sources */,
 				8FCD667F2904AAEE00E13E31 /* SheetsBootcamp.swift in Sources */,
+				8F385E7F290E0361006292A8 /* TextSelectionBootcamp.swift in Sources */,
 				8F7A0F3428FD150A003D76BE /* InitializerBootcamp.swift in Sources */,
 				8F7A0F3028FD0E52003D76BE /* PaddingAndSpacerBootcamp.swift in Sources */,
 				8F9539232908457600EA8659 /* EnvironmentObjectBootcamp.swift in Sources */,
