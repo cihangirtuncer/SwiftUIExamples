@@ -13,7 +13,7 @@ struct SwiftUIBootCampApp: App {
 
     var body: some Scene {
         WindowGroup {
-            FocusStateBootcamp()
+            SubmitTextFieldBootcamp()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
