@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8F1044A5290C30D400CBEA64 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1044A4290C30D400CBEA64 /* OnboardingView.swift */; };
+		8F116C3229168DD1001F8709 /* MagnificationGestureBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F116C3129168DD1001F8709 /* MagnificationGestureBootcamp.swift */; };
 		8F1AD83B2901E015006AF6FB /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1AD83A2901E015006AF6FB /* StateBootcamp.swift */; };
 		8F1AD83D2901E905006AF6FB /* ExtractedFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1AD83C2901E905006AF6FB /* ExtractedFunctionsBootcamp.swift */; };
 		8F1AD83F2901EE98006AF6FB /* ExtractSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1AD83E2901EE98006AF6FB /* ExtractSubviewsBootcamp.swift */; };
@@ -67,6 +68,7 @@
 
 /* Begin PBXFileReference section */
 		8F1044A4290C30D400CBEA64 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		8F116C3129168DD1001F8709 /* MagnificationGestureBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MagnificationGestureBootcamp.swift; sourceTree = "<group>"; };
 		8F1AD83A2901E015006AF6FB /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		8F1AD83C2901E905006AF6FB /* ExtractedFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBootcamp.swift; sourceTree = "<group>"; };
 		8F1AD83E2901EE98006AF6FB /* ExtractSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsBootcamp.swift; sourceTree = "<group>"; };
@@ -236,6 +238,7 @@
 			isa = PBXGroup;
 			children = (
 				8F7599102915FDE8006350F1 /* LongPressGestureBootcamp.swift */,
+				8F116C3129168DD1001F8709 /* MagnificationGestureBootcamp.swift */,
 			);
 			path = IntermediateLevel;
 			sourceTree = "<group>";
@@ -339,6 +342,7 @@
 				8F9539212907EFA500EA8659 /* ViewModelBootcamp.swift in Sources */,
 				8F7A0F3228FD1222003D76BE /* SpacerBootcamp.swift in Sources */,
 				8F1F61B2290348AB00AE31AB /* AnimationBootcamp.swift in Sources */,
+				8F116C3229168DD1001F8709 /* MagnificationGestureBootcamp.swift in Sources */,
 				8F7599112915FDE8006350F1 /* LongPressGestureBootcamp.swift in Sources */,
 				8F3F02AD28FC37A900751EF8 /* ContentView.swift in Sources */,
 				8F3AB57E29107F4F009F900B /* FocusStateBootcamp.swift in Sources */,
