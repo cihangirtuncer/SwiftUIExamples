@@ -14,6 +14,8 @@
 		8F116C3829169CE6001F8709 /* DragGestureBootcamp2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F116C3729169CE6001F8709 /* DragGestureBootcamp2.swift */; };
 		8F116C3A2916F01B001F8709 /* ScrollViewReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F116C392916F01B001F8709 /* ScrollViewReaderBootcamp.swift */; };
 		8F116C3C2916FEFA001F8709 /* GeometryReaderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F116C3B2916FEFA001F8709 /* GeometryReaderBootcamp.swift */; };
+		8F116C3E291707D0001F8709 /* MultipleSheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F116C3D291707D0001F8709 /* MultipleSheetsBootcamp.swift */; };
+		8F116C4029170D15001F8709 /* MaskBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F116C3F29170D15001F8709 /* MaskBootcamp.swift */; };
 		8F1AD83B2901E015006AF6FB /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1AD83A2901E015006AF6FB /* StateBootcamp.swift */; };
 		8F1AD83D2901E905006AF6FB /* ExtractedFunctionsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1AD83C2901E905006AF6FB /* ExtractedFunctionsBootcamp.swift */; };
 		8F1AD83F2901EE98006AF6FB /* ExtractSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F1AD83E2901EE98006AF6FB /* ExtractSubviewsBootcamp.swift */; };
@@ -79,6 +81,8 @@
 		8F116C3729169CE6001F8709 /* DragGestureBootcamp2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragGestureBootcamp2.swift; sourceTree = "<group>"; };
 		8F116C392916F01B001F8709 /* ScrollViewReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewReaderBootcamp.swift; sourceTree = "<group>"; };
 		8F116C3B2916FEFA001F8709 /* GeometryReaderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryReaderBootcamp.swift; sourceTree = "<group>"; };
+		8F116C3D291707D0001F8709 /* MultipleSheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MultipleSheetsBootcamp.swift; sourceTree = "<group>"; };
+		8F116C3F29170D15001F8709 /* MaskBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaskBootcamp.swift; sourceTree = "<group>"; };
 		8F1AD83A2901E015006AF6FB /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		8F1AD83C2901E905006AF6FB /* ExtractedFunctionsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBootcamp.swift; sourceTree = "<group>"; };
 		8F1AD83E2901EE98006AF6FB /* ExtractSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsBootcamp.swift; sourceTree = "<group>"; };
@@ -254,6 +258,8 @@
 				8F116C3729169CE6001F8709 /* DragGestureBootcamp2.swift */,
 				8F116C392916F01B001F8709 /* ScrollViewReaderBootcamp.swift */,
 				8F116C3B2916FEFA001F8709 /* GeometryReaderBootcamp.swift */,
+				8F116C3D291707D0001F8709 /* MultipleSheetsBootcamp.swift */,
+				8F116C3F29170D15001F8709 /* MaskBootcamp.swift */,
 			);
 			path = IntermediateLevel;
 			sourceTree = "<group>";
@@ -348,6 +354,7 @@
 				8F1AD83D2901E905006AF6FB /* ExtractedFunctionsBootcamp.swift in Sources */,
 				8F6F1B49290342E6004D33A6 /* TernaryBootcamp.swift in Sources */,
 				8F3F2C3029064E90006E802A /* ActionsheetBootcamp.swift in Sources */,
+				8F116C3E291707D0001F8709 /* MultipleSheetsBootcamp.swift in Sources */,
 				8F3F02B728FC37A900751EF8 /* SwiftUIBootCamp.xcdatamodeld in Sources */,
 				8F3F02B428FC37A900751EF8 /* Persistence.swift in Sources */,
 				8F116C3429169231001F8709 /* RotationGestureBootcamp.swift in Sources */,
@@ -388,6 +395,7 @@
 				8F385E7F290E0361006292A8 /* TextSelectionBootcamp.swift in Sources */,
 				8F7A0F3428FD150A003D76BE /* InitializerBootcamp.swift in Sources */,
 				8F7A0F3028FD0E52003D76BE /* PaddingAndSpacerBootcamp.swift in Sources */,
+				8F116C4029170D15001F8709 /* MaskBootcamp.swift in Sources */,
 				8F9539232908457600EA8659 /* EnvironmentObjectBootcamp.swift in Sources */,
 				8F116C3A2916F01B001F8709 /* ScrollViewReaderBootcamp.swift in Sources */,
 				8FCD667D2904A71100E13E31 /* TransitionBootcamp.swift in Sources */,
