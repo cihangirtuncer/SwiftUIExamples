@@ -10,7 +10,7 @@ import AVKit
 
 class Soundmanager {
     
-    static let instance = Soundmanager()
+    static let instance = Soundmanager() // Singleton
     
     var player : AVAudioPlayer?
     
