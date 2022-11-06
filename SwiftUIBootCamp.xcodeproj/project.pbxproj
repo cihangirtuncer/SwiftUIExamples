@@ -73,6 +73,8 @@
 		8FBC34E42917F10600A94CEC /* LocalNotificationsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBC34E32917F10600A94CEC /* LocalNotificationsBootcamp.swift */; };
 		8FBC34E62917FE5E00A94CEC /* HashableBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBC34E52917FE5E00A94CEC /* HashableBootcamp.swift */; };
 		8FBC34E82918013F00A94CEC /* ArraysBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBC34E72918013F00A94CEC /* ArraysBootcamp.swift */; };
+		8FBC35092918375900A94CEC /* CoreDataBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FBC35082918375900A94CEC /* CoreDataBootcamp.swift */; };
+		8FBC350C2918389C00A94CEC /* FruitsContainer.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8FBC350A2918389C00A94CEC /* FruitsContainer.xcdatamodeld */; };
 		8FCD667D2904A71100E13E31 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD667C2904A71100E13E31 /* TransitionBootcamp.swift */; };
 		8FCD667F2904AAEE00E13E31 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD667E2904AAEE00E13E31 /* SheetsBootcamp.swift */; };
 		8FCD66812904B1B000E13E31 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD66802904B1B000E13E31 /* PopoverBootcamp.swift */; };
@@ -149,6 +151,8 @@
 		8FBC34E32917F10600A94CEC /* LocalNotificationsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalNotificationsBootcamp.swift; sourceTree = "<group>"; };
 		8FBC34E52917FE5E00A94CEC /* HashableBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HashableBootcamp.swift; sourceTree = "<group>"; };
 		8FBC34E72918013F00A94CEC /* ArraysBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArraysBootcamp.swift; sourceTree = "<group>"; };
+		8FBC35082918375900A94CEC /* CoreDataBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataBootcamp.swift; sourceTree = "<group>"; };
+		8FBC350B2918389C00A94CEC /* FruitsContainer.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FruitsContainer.xcdatamodel; sourceTree = "<group>"; };
 		8FCD667C2904A71100E13E31 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 		8FCD667E2904AAEE00E13E31 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		8FCD66802904B1B000E13E31 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
@@ -280,6 +284,8 @@
 				8FBC34E32917F10600A94CEC /* LocalNotificationsBootcamp.swift */,
 				8FBC34E52917FE5E00A94CEC /* HashableBootcamp.swift */,
 				8FBC34E72918013F00A94CEC /* ArraysBootcamp.swift */,
+				8FBC35082918375900A94CEC /* CoreDataBootcamp.swift */,
+				8FBC350A2918389C00A94CEC /* FruitsContainer.xcdatamodeld */,
 			);
 			path = IntermediateLevel;
 			sourceTree = "<group>";
@@ -374,6 +380,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8FBC350C2918389C00A94CEC /* FruitsContainer.xcdatamodeld in Sources */,
 				8F3F2C342906575B006E802A /* TextFieldAndTextEditorBootcamp.swift in Sources */,
 				8FBC34E82918013F00A94CEC /* ArraysBootcamp.swift in Sources */,
 				8F116C3829169CE6001F8709 /* DragGestureBootcamp2.swift in Sources */,
@@ -411,6 +418,7 @@
 				8F1B74C5290D3E4600CF454C /* AsyncImageBootcamp.swift in Sources */,
 				8F3F02AB28FC37A900751EF8 /* SwiftUIBootCampApp.swift in Sources */,
 				8F3F02CB28FC584F00751EF8 /* FrameBootcamp.swift in Sources */,
+				8FBC35092918375900A94CEC /* CoreDataBootcamp.swift in Sources */,
 				8FCD66812904B1B000E13E31 /* PopoverBootcamp.swift in Sources */,
 				8F519E4F28FD8C0C007F9CF2 /* ForEachBootcamp.swift in Sources */,
 				8F6F1B472902B079004D33A6 /* ConditionalBootcamp.swift in Sources */,
@@ -650,6 +658,16 @@
 			);
 			currentVersion = 8F3F02B628FC37A900751EF8 /* SwiftUIBootCamp.xcdatamodel */;
 			path = SwiftUIBootCamp.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+		8FBC350A2918389C00A94CEC /* FruitsContainer.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				8FBC350B2918389C00A94CEC /* FruitsContainer.xcdatamodel */,
+			);
+			currentVersion = 8FBC350B2918389C00A94CEC /* FruitsContainer.xcdatamodel */;
+			path = FruitsContainer.xcdatamodeld;
 			sourceTree = "<group>";
 			versionGroupType = wrapper.xcdatamodel;
 		};

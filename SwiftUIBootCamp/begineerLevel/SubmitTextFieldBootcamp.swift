@@ -11,7 +11,7 @@ struct SubmitTextFieldBootcamp: View {
     @State var username : String = ""
     var body: some View {
         TextField(text: $username) {
-            Text("Hwllo where are you from")
+            Text("Hello")
                 
         }
         .frame(width: 300,height: 55)
