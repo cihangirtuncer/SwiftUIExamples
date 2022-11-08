@@ -13,7 +13,7 @@ struct SwiftUIBootCampApp: App {
 
     var body: some Scene {
         WindowGroup {
-            BackgroundThreadBootcamp()
+            WeakSelfBootcamp()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
