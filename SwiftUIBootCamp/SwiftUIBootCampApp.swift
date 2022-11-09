@@ -13,7 +13,7 @@ struct SwiftUIBootCampApp: App {
 
     var body: some Scene {
         WindowGroup {
-            CodableBootcamp()
+            DownloadWitfEscapingBootcamp()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }
