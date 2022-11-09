@@ -7,6 +7,9 @@
 
 import SwiftUI
 
+
+// TODO: JSON from API in swift with URLSessin and escaping closures
+
 struct PostModel: Identifiable, Codable {
     let userId : Int
     let id : Int
