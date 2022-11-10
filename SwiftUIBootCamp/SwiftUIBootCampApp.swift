@@ -13,7 +13,7 @@ struct SwiftUIBootCampApp: App {
 
     var body: some Scene {
         WindowGroup {
-            DownloadWithCombineBootcamp()
+            EscapingBootcamp()
                 .environment(\.managedObjectContext, persistenceController.container.viewContext)
         }
     }

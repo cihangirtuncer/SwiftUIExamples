@@ -56,7 +56,7 @@ class WeakSelfSecondScreenViewModel: ObservableObject {
     }
     
    func getData(){
-       DispatchQueue.main.asyncAfter(deadline: .now() + 3){ [weak self] in // bir işlem çok uzun sürdüğünde weak self işlem sürerken deinit fonksiyonu çalışıcak bir işlem yapılırsa de init fonksiyonunu çalıştırır ve üst üste fonksiyon çalışmasının engeller
+       DispatchQueue.main.asyncAfter(deadline: .now() + 500){[weak self] in  // bir işlem çok uzun sürdüğünde weak self işlem sürerken deinit fonksiyonu çalışıcak bir işlem yapılırsa de init fonksiyonunu çalıştırır ve üst üste fonksiyon çalışmasının engeller
            self?.data = "New data"
        }
     }

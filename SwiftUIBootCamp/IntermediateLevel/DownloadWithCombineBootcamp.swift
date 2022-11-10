@@ -21,6 +21,7 @@ class DownloadWithCombineViewModel : ObservableObject{
     
     @Published var posts : [PostModels] = []
     var cancellables = Set<AnyCancellable>()
+    
     init(){
         getPost()
     }
