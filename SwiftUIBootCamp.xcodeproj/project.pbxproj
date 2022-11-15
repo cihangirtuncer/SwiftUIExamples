@@ -87,6 +87,7 @@
 		8FCD66812904B1B000E13E31 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD66802904B1B000E13E31 /* PopoverBootcamp.swift */; };
 		8FCD66832904C5C500E13E31 /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FCD66822904C5C500E13E31 /* NavigationViewBootcamp.swift */; };
 		8FF23B17291C44AA0037E2AA /* DownloadWithCombineBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FF23B16291C44AA0037E2AA /* DownloadWithCombineBootcamp.swift */; };
+		8FFB9EBB29243C730079F9EE /* SubscriberBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFB9EBA29243C730079F9EE /* SubscriberBootcamp.swift */; };
 		8FFBB906290AFD9D008EF69D /* introView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8FFBB905290AFD9D008EF69D /* introView.swift */; };
 /* End PBXBuildFile section */
 
@@ -173,6 +174,7 @@
 		8FCD66802904B1B000E13E31 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		8FCD66822904C5C500E13E31 /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		8FF23B16291C44AA0037E2AA /* DownloadWithCombineBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadWithCombineBootcamp.swift; sourceTree = "<group>"; };
+		8FFB9EBA29243C730079F9EE /* SubscriberBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriberBootcamp.swift; sourceTree = "<group>"; };
 		8FFBB905290AFD9D008EF69D /* introView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = introView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -310,6 +312,7 @@
 				8F944508291B870600520C5B /* DownloadWitfEscapingBootcamp.swift */,
 				8FF23B16291C44AA0037E2AA /* DownloadWithCombineBootcamp.swift */,
 				8F6BDCE5291D9E630017F9CF /* TimerBootcamp.swift */,
+				8FFB9EBA29243C730079F9EE /* SubscriberBootcamp.swift */,
 			);
 			path = IntermediateLevel;
 			sourceTree = "<group>";
@@ -478,6 +481,7 @@
 				8FF23B17291C44AA0037E2AA /* DownloadWithCombineBootcamp.swift in Sources */,
 				8F3F2C32290650A2006E802A /* ContextMenuBootcamp.swift in Sources */,
 				8F1F61B4290350F500AE31AB /* AnimationTimingBootcamp.swift in Sources */,
+				8FFB9EBB29243C730079F9EE /* SubscriberBootcamp.swift in Sources */,
 				8F3AB580291083D3009F900B /* SubmitTextFieldBootcamp.swift in Sources */,
 				8FCD66832904C5C500E13E31 /* NavigationViewBootcamp.swift in Sources */,
 				8F116642291AF5F90048964A /* CodableBootcamp.swift in Sources */,
