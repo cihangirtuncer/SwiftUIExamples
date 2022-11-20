@@ -28,7 +28,7 @@ struct TimerBootcamp: View {
     @State var finishedText : String? = nil
     */
     @State var timeRemaining : String = ""
-    let futureDate : Date = Calendar.current.date(bySetting: .day, value: 1, of: Date()) ?? Date()
+    let futureDate : Date = Calendar.current.date(bySetting: .day, value: 5, of: Date()) ?? Date()
     func updateTimeRemaining(){
         let remaining = Calendar.current.dateComponents([.hour, .minute , .second], from: Date(), to: futureDate)
         let hour = remaining.hour ?? 0
